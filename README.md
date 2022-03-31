@@ -4,7 +4,7 @@
 
 ### Modules Used
 * Itertools
-* enchant
+* pyenchant
 
 ### Installation and Usage
 ```

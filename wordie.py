@@ -37,7 +37,7 @@ try:
     words = list(temp)
     perms = permutations(words)
     
-    # Applying permutations on all letters and checking them against a dictionary
+    # Applying permutations on all letters and checking them against pyenchant's dictionary
     for i in list(perms):
         for j in range(3,len(words)+1):   # 3 is used as min length of word is 3 in Words of Wonders
             checkWord(i[0:j])
