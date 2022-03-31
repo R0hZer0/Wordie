@@ -15,3 +15,5 @@
 ```
 
 **Note**: The script may generate some words which aren't accepted by the game.
+
+![wordie image](wordie.png)
